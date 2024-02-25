@@ -1,0 +1,21 @@
+Bu program temel aritmetik işlemleri ve kişisel bilgi kayıtları için örnek bir projedir. Ticari veya günlük kullanıma uygun değildir.
+
+Program İşlevleri:
+
+1) Hesap Makinesi: Hesap makinesi toplama, çıkarma, çarpma ve bölme gibi temel aritmetik işlemleri yapmak için kullanılabilir.
+
+2) Kişisel Bilgi Ekranı: Bu ekran girilen isim ve soyisim bilgilerini alır, kayıt dosyasının şifresini çözerek kişiyi listede arar. Eğer bulamıyorsa "Kaydetmek ister misiniz?" diye sorar. Kullanıcı evet derse, eksik bilgileri de sorarak kaydeder ve dosyayı tekrar şifreler.
+
+Önemli Notlar:
+
+Bu program bir NoSQL programıdır ve herhangi bir veritabanına bağlı değildir.
+Program ticari veya günlük kullanıma uygun değildir. Sadece eğitim amaçlı örnek bir projedir.
+
+
+
+Programı başlatmak için:
+
+Başlat.bat dosyasını çalıştırın.
+Dosya eksikse, program eksik dosyaları indirecektir.
+Eksik dosyalar indikten sonra program otomatik olarak başlatılacaktır.
+Not: Programı ilk defa çalıştırırken internet bağlantınız olduğundan emin olun.
